@@ -1,0 +1,26 @@
+h1{
+    color:blueviolet;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    border:5px solid black;
+    
+
+}
+.inner{
+    display: flex;
+    width:50%;
+    justify-content:space-between;
+    
+}
+@media (max-width:575px) {
+    p{
+        margin:5px;
+    }
+    
+}
+.div{
+    border:2px solid green;
+    
+}
